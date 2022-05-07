@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basem</h1>
-<h3 align="center">Machine Learning Engineer with Solid Experence in Ml , Dl , NLP</h3>
+<h3 align="center">Machine Learning Engineer with Android Development background and Solid Experence in Ml , Dl , NLP</h3>
 
 - 🔭 I’m currently working on [Data Science Intern](@ Epsilon Ai)
 
