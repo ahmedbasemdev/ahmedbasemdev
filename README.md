@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basem</h1>
 <h3 align="center">Machine Learning Engineer with Android Development background and Solid Experence in Ml , Dl , NLP</h3>
 
-- 🔭 I’m currently working as Data Scientist and NLP engineer(@ Upwork)
+- 🔭 I’m currently Top Rated Machine learning engineer(@ Upwork)
 
 - 📫 How to reach me **ahmedbasem.dev@gmail.com**
 
