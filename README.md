@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basem</h1>
-<h3 align="center">Machine Learning Engineer with Android Development background and Solid experience in Ml, Dl , NLP, and Computer Vision</h3>
+<h3 align="center">A Machine Learning Engineer with sold experience in Machine learning , Deep Learning, NLP, and Computer vision</h3>
 
 - 🔭 I’m currently a Top Rated Machine learning Freelancer @ Upwork
 
