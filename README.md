@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basem</h1>
 <h3 align="center">A Machine Learning Engineer with sold experience in Machine learning , Deep Learning, NLP, and Computer vision</h3>
 
-- 🔭 I’m currently a Machine learning Engineer @ MetaChain 
+- 🔭 I’m a Machine learning Engineer
 
 - 📫 How to reach me **ahmedbasem.dev@gmail.com**
 
